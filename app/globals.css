@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+
+nav {
+  background: #a4e0b1;
+  background: linear-gradient(275deg, rgba(164, 224, 177, 1) 28%, rgba(96, 153, 104, 1) 52%, rgba(104, 173, 108, 1) 76%);
+}
+
+footer {
+  background: #a4e0b1;
+  background: linear-gradient(275deg, rgba(164, 224, 177, 1) 28%, rgba(96, 153, 104, 1) 52%, rgba(104, 173, 108, 1) 76%);
+}
+
+
+
+
+/* .bg-container {
+  background-image: url('/wadda khalo wada.png');
+  
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  opacity: 0.9;
+}
+
+.text {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.subtext {
+  font-size: 1.5rem;
+} */
